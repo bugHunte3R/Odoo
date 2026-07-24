@@ -1,0 +1,5 @@
+services:
+  odoo:
+    image: odoo:latest
+  db:
+    image: postgres:16
