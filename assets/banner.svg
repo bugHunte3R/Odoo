@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#16233D"/></linearGradient>
+<pattern id="p" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#ffffff10"/></pattern></defs>
+<rect width="1280" height="320" fill="url(#g)"/><rect width="1280" height="320" fill="url(#p)"/>
+<circle cx="1120" cy="70" r="190" fill="#7C3AED" opacity=".16"/><circle cx="1210" cy="260" r="120" fill="#7C3AED" opacity=".12"/>
+<rect x="72" y="70" width="56" height="6" rx="3" fill="#7C3AED"/>
+<text x="72" y="140" font-size="52" font-weight="700" fill="#F8FAFC">Odoo ERP</text>
+<text x="72" y="186" font-size="22" fill="#94A3B8">Odoo + PostgreSQL deployed with Docker Compose and Docker secrets</text>
+<rect x="72" y="228" width="54" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="99.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">Odoo</text><rect x="136" y="228" width="102" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="187.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">PostgreSQL</text><rect x="248" y="228" width="134" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="315.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">Docker Compose</text><rect x="392" y="228" width="134" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="459.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">Docker secrets</text><rect x="536" y="228" width="46" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="559.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">CRM</text><rect x="592" y="228" width="62" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="623.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">Sales</text><rect x="664" y="228" width="94" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="711.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">Inventory</text>
+<text x="1208" y="300" text-anchor="end" font-size="14" fill="#64748B">Yacine Zakat · homelab &amp; IT projects</text>
+</svg>
